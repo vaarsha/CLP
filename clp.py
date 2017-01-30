@@ -5,5 +5,5 @@ args = val.split()
 if args[0] == 'rm'and args[1] == '\\':
     print "Danger don\'t even try it"
     sys.exit()
-print args
-process = subprocess.Popen(args,shell=False)
+#print args
+process = subprocess.Popen(args,shell=False) #Takes input as list
