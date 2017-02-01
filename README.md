@@ -1,5 +1,5 @@
 # CLP-Command Line Parser
 Takes the required arguments and performs operation on it.
 Example input
-pwd
+pwd, 
 sort -r filename
